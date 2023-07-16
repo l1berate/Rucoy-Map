@@ -1,0 +1,11 @@
+		  Pic x,y	   Real x,y
+1st level 147, 302 --> 147, 347		*Farthest right assassin's stairs
+
+2nd level 147, 302 --> 147, 347		*Farthest right assassin's stairs
+
+3rd level 103, 342 --> 103, 307		*assassin's stairs
+
+valid_coordinates = [
+	'103,342',
+	'103,345'
+]
